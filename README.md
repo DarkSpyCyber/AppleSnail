@@ -8,14 +8,12 @@ v0.1 by DarkSpy
 3. compiled to native code
 
 now here's howto:
-
-AppleSnail. the File Transfer Tool by DarkSpy v0.1
-2020/10/5 Options:
-server -> to run server
-send IP filename -> to send file to IP which was run server
-list IP          -> to list file what in AppleSnail's current folder
-recv IP filename -> to recv file from IP which was run server
-for example: ruby applesnail.rb server
-             ruby applesnail.rb recv 111.222.244.34 pack.rar
-             ruby applesnail.rb send 111.222.244.34 myfile.rar
-
+AppleSnail. the File Transfer Tool by DarkSpy v0.1<br>
+2020/10/5 Options:<br>
+server -> to run server<br>
+send IP filename -> to send file to IP which was run server<br>
+list IP          -> to list file what in AppleSnail's current folde<br>
+recv IP filename -> to recv file from IP which was run server<br>
+for example: ruby applesnail.rb server<br>
+             ruby applesnail.rb recv 111.222.244.34 pack.rar<br>
+             ruby applesnail.rb send 111.222.244.34 myfile.rar<br>
