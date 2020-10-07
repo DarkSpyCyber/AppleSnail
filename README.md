@@ -3,11 +3,12 @@
 
 v0.1 by DarkSpy
 
-1. wrotten by Ruby
-2. compiled to windows exe file
+1. wrotten in Ruby
+2. packed to windows exe file
 3. compiled to native code
 
-now here's howto:
+here's howto:
+
 AppleSnail. the File Transfer Tool by DarkSpy v0.1<br>
 2020/10/5 Options:<br>
 server -> to run server<br>
